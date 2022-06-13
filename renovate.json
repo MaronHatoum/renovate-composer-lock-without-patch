@@ -1,6 +1,7 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    ":dependencyDashboardApproval"
   ],
   "commitMessageTopic": "{{depName}}",
   "commitMessageExtra": " ({{{displayFrom}}} => {{{displayTo}}})",
