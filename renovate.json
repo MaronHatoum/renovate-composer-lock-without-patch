@@ -7,11 +7,8 @@
   "commitMessageExtra": " ({{{displayFrom}}} => {{{displayTo}}})",
   "composerIgnorePlatformReqs": null,
   "rangeStrategy": "update-lockfile"
-  
   "packageRules": [
     {
-      "matchPackageNames": ["node"],
-      "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     }
   ]
