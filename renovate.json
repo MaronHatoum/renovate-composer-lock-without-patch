@@ -9,7 +9,7 @@
   "rangeStrategy": "update-lockfile",
   "packageRules": [
     {
-      "matchPackageNames": ["node"],
+      "matchPackageNames": ["php-parallel-lint"],
       "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     }
