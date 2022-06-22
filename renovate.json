@@ -9,7 +9,9 @@
   "rangeStrategy": "update-lockfile",
   "packageRules": [
     {
+      "matchPackageNames": ["node"],
+      "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     }
-  ]
+  ],
 }
