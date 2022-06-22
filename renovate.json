@@ -13,5 +13,5 @@
       "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     }
-  ],
+  ]
 }
