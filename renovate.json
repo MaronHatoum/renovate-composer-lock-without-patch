@@ -6,7 +6,7 @@
   "commitMessageTopic": "{{depName}}",
   "commitMessageExtra": " ({{{displayFrom}}} => {{{displayTo}}})",
   "composerIgnorePlatformReqs": null,
-  "rangeStrategy": "update-lockfile"
+  "rangeStrategy": "update-lockfile",
   "packageRules": [
     {
       "dependencyDashboardApproval": true
